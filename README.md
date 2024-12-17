@@ -53,7 +53,7 @@ Contributions are welcome! Feel free to open issues, suggest features, or submit
   - Integration with HealthKit to fetch activity and body metrics.
   - Notification scheduling for hydration reminders.
 
-- **/3d_printed_housing**  
+- **/Housing**  
   CAD files and STL models of the custom 3D-printed housing designed to fit the sensor assembly onto various bottles.
 
 - **/RawSensorDataPlots**  
