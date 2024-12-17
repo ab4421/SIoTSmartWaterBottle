@@ -4,7 +4,13 @@ This repository contains the code and documentation for a compact, retrofit IoT 
 
 
 ## License and Contributions
-This project is released under [INSERT LICENSE TYPE, e.g., MIT License].
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+**Key points:**
+- **Attribution Required:** You must give appropriate credit to the original author(s) and clearly indicate any changes made.
+- **Non-Commercial:** You may not use the material for commercial purposes.
+- **No Additional Restrictions:** You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
 
 Contributions are welcome! Feel free to open issues, suggest features, or submit pull requests. 
 
